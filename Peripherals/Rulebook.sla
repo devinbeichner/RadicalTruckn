@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.1">
+    <DOCUMENT ANZPAGES="13" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="12" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="280" PAGEYPOS="20" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="312" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="280" PAGEYPOS="312" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="604" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="280" PAGEYPOS="604" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="4" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="896" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="5" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="280" PAGEYPOS="896" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="6" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1188" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="7" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="280" PAGEYPOS="1188" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="8" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1480" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="9" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="280" PAGEYPOS="1480" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="10" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1772" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="11" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="280" PAGEYPOS="1772" PAGEWIDTH="180" PAGEHEIGHT="252" BORDERLEFT="10.8" BORDERRIGHT="7.2" BORDERTOP="7.2" BORDERBOTTOM="7.2" NUM="12" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="315.056338028169" YPOS="140.183098591549" OwnPage="0" ItemID="187381472" PTYPE="4" WIDTH="111.774647887324" HEIGHT="15.9295774647887" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.775 0 L111.775 15.9296 L0 15.9296 L0 0 Z" copath="M0 0 L111.775 0 L111.775 15.9296 L0 15.9296 L0 0 Z" gXpos="315.056338028169" gYpos="140.183098591549" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="RADICAL TRUCK'N"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="109.535211267606" YPOS="323.43661971831" OwnPage="1" ItemID="244585248" PTYPE="4" WIDTH="158.706467605634" HEIGHT="237.295774647887" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L158.706 0 L158.706 237.296 L0 237.296 L0 0 Z" copath="M0 0 L158.706 0 L158.706 237.296 L0 237.296 L0 0 Z" gXpos="109.535211267606" gYpos="323.43661971831" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="9"/>
+                <ITEXT FONTSIZE="8" CH="    Long ago, the Unradiant ushered in a new, radical era. We absorbed the glow and all flesh melded with each other. In our hubris, we continued the same process of unhindered consumption. Now, our planet glows so radiantly, we began attracting the attention of others from beyond the horizon…     And boy are they PISSED! Turns out, we’re shootin’ off so much radiation that our planetary next door neighbors have begun the glorious flesh meld themselves, but they’re less happy about it (ungrateful jerks…) Needless to say, they’re here to turn our neon green marble in space to dust, but not before giving us one last purpose on this planet - TRUCKIN’!"/>
+                <para LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="293.070422535211" YPOS="319.943661971831" OwnPage="2" ItemID="259624976" PTYPE="4" WIDTH="159.211267605634" HEIGHT="236.788732394366" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.211 0 L159.211 236.789 L0 236.789 L0 0 Z" copath="M0 0 L159.211 0 L159.211 236.789 L0 236.789 L0 0 Z" gXpos="293.070422535211" gYpos="319.943661971831" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="8" CH="In Radical Truckin’, you’ll be playing as the CEO of your very own shipping company. Each round you’ll scavenge for fuel, tools, drivers, and cargo - prep for your delivery - and race to ship your goods to the aliens and prove your worth! Whoever gains the most merit by the end of the game is saved from decimation, but watch out, the other CEOs aren’t going to make it so easy for you!"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="A game takes place over 3 rounds that consist of 4 phases: Scavenge, Prep, Shipping, and Delivery"/>
+                <ITEXT CH="."/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="109.521126760563" YPOS="611.492957746479" OwnPage="3" ItemID="186934000" PTYPE="4" WIDTH="159.211267605634" HEIGHT="237.295774647887" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.211 0 L159.211 237.296 L0 237.296 L0 0 Z" copath="M0 0 L159.211 0 L159.211 237.296 L0 237.296 L0 0 Z" gXpos="109.521126760563" gYpos="611.492957746479" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="8" CH="Components:"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="100 Cards"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="42 Fuels"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="42 Tools"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="16 Drivers"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="4 Player Mats"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Player Mat:"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Trailer - this is where the cargo you’re trying to ship goes."/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Reactor - Your fuel will go here."/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Driver’s Seat - This is where your driver goes"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Stockyard - This is where you’ll store cards you’re not using, or cards you’ve stolen"/>
+                <para LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="292.056338028169" YPOS="612.507042253521" OwnPage="4" ItemID="258109488" PTYPE="4" WIDTH="159.718309859155" HEIGHT="236.281690140845" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.718 0 L159.718 236.282 L0 236.282 L0 0 Z" copath="M0 0 L159.718 0 L159.718 236.282 L0 236.282 L0 0 Z" gXpos="292.056338028169" gYpos="612.507042253521" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="8" CH="Card Types: "/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Fuel"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Fuel quality is used to determine speed and load size. The higher the total number, the faster you go and the more you can ship!"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Tool"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="8" CH="Single use items that your driver can use to get a leg up on the competition. Attack type tools can only be used on your turn during the shipping phase. Others can be played at any time."/>
+                <para LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="108.521126760563" YPOS="905" OwnPage="5" ItemID="183528080" PTYPE="4" WIDTH="157.69014084507" HEIGHT="235.845070422535" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L157.69 0 L157.69 235.845 L0 235.845 L0 0 Z" copath="M0 0 L157.69 0 L157.69 235.845 L0 235.845 L0 0 Z" gXpos="108.521126760563" gYpos="905" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="0" LINESP="12" FONTSIZE="8"/>
+                <ITEXT FONTSIZE="8" CH="Driver"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT FONTSIZE="8" CH="The talent. Drivers will have a powerful effect that might inform your scavenging strategy for the round. The number found on the bottom left of the card shows how many prehensile limbs they have, and subsequently how many tools they can hold during shipment. The number found on the bottom right is their driving skill, which is added to your speed at the beginning of the shipping and delivery phases."/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CH="Setup:"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CH="Each player takes a playmat and sets it in front of them. Shuffle the deck and set it in the middle of the play area, with space for a discard pile next to it."/>
+                <para LINESPMode="0" LINESP="12"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="292.056338028169" YPOS="904.56338028169" OwnPage="6" ItemID="187118176" PTYPE="4" WIDTH="158.943661971831" HEIGHT="234.43661971831" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L158.944 0 L158.944 234.437 L0 234.437 L0 0 Z" copath="M0 0 L158.944 0 L158.944 234.437 L0 234.437 L0 0 Z" gXpos="292.056338028169" gYpos="904.56338028169" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <ITEXT CH="Gameplay:"/>
+                <para LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT CH="If any card contradicts these rules, the card takes precedence."/>
+                <para LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT CH="Always select randomly for destroy and steal effects."/>
+                <para LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT CH="If there are not enough cards in the deck to do something, shuffle the discard pile into the deck and continue."/>
+                <para LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT CH="A game consists of 3 rounds, with each of these phases in order:"/>
+                <para LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="108.507042253521" YPOS="1196.61971830986" OwnPage="7" ItemID="183292080" PTYPE="4" WIDTH="158.704225352113" HEIGHT="235.267605633803" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L158.704 0 L158.704 235.268 L0 235.268 L0 0 Z" copath="M0 0 L158.704 0 L158.704 235.268 L0 235.268 L0 0 Z" gXpos="108.507042253521" gYpos="1196.61971830986" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <ITEXT CH="Scavenge:"/>
+                <para/>
+                <ITEXT CH="Deal 10 cards to each player."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Each player looks at their hand, selects one card to keep and places it face down in front of them. Those cards are your “scavenge”. Then, pass the rest of your hand to the player on your right. You’ll receive a new hand from the player on your left. Repeat this process until there are no cards left to take. For the next scavenge phase, you’ll pass your hand to the player on the left instead of the right, and to the right again for the third round."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="292.056338028169" YPOS="1196.61971830986" OwnPage="8" ItemID="183963696" PTYPE="4" WIDTH="159.211267605634" HEIGHT="234.760563380282" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.211 0 L159.211 234.761 L0 234.761 L0 0 Z" copath="M0 0 L159.211 0 L159.211 234.761 L0 234.761 L0 0 Z" gXpos="292.056338028169" gYpos="1196.61971830986" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <ITEXT CH="Prep:"/>
+                <para LINESP="13"/>
+                <ITEXT CH="Load up your truck using your scavenged cards from this round, or cards in your Stockyard, by placing them facedown in the appropriate slot."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CH="Driver’s Seat - Can hold one Driver. If you have no Driver this round, you’ll have to do some legwork yourself. You have 2 prehensile limbs and 0 driving skill. You also have no special effect… Your talents are better spent behind a desk than a wheel."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CH="Reactor - Can hold as much fuel as you can shove into it. Your total fuel quality will be used in calculating both your speed and how much cargo you can deliver"/>
+                <trail LINESP="13"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="109" YPOS="1489.18309859155" OwnPage="9" ItemID="186622192" PTYPE="4" WIDTH="159.225352112676" HEIGHT="234.253521126761" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.225 0 L159.225 234.254 L0 234.254 L0 0 Z" copath="M0 0 L159.225 0 L159.225 234.254 L0 234.254 L0 0 Z" gXpos="109" gYpos="1489.18309859155" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <ITEXT CH="Trailer - Can hold as much cargo as you can shove into it. Any card can be treated as cargo. In order to successfully deliver these products, the number of cargo in your trailer must be equal to or less than your total fuel quality."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Prehensile Limbs - You may put tools from your scavenge, or your stockpile, up to the amount of Prehensile Limbs your driver has and keep them in your hand."/>
+                <para/>
+                <para/>
+                <ITEXT CH="After you’ve loaded up, store any other unused cards in the Stockyard"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="292.056338028169" YPOS="1488.67605633803" OwnPage="10" ItemID="258400272" PTYPE="4" WIDTH="160.225352112676" HEIGHT="235.267605633803" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.225 0 L160.225 235.268 L0 235.268 L0 0 Z" copath="M0 0 L160.225 0 L160.225 235.268 L0 235.268 L0 0 Z" gXpos="292.056338028169" gYpos="1488.67605633803" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <ITEXT CH="Shipping:"/>
+                <para/>
+                <ITEXT CH="Flip your driver and fuel cards faceup and determine your speed by adding your total fuel quality and driver skill together.  The higher the number, the faster you are. If there’s a tie for speed, the driver with the highest Driving Skill is faster."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Players then take turns from fastest to slowest taking one of the following actions:"/>
+                <para/>
+                <ITEXT CH="Play an attack tool"/>
+                <para/>
+                <ITEXT CH="Activate a driver ability"/>
+                <para/>
+                <ITEXT CH="Discard any tool to scrounge 2 cards (refer to keywords section)"/>
+                <para/>
+                <ITEXT CH="Pass your turn. "/>
+                <para/>
+                <para/>
+                <ITEXT CH="Note: You may play defensive tools at any time."/>
+                <para/>
+                <ITEXT CH="The phase is over after all players pass."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="108.507042253521" YPOS="1780.22535211268" OwnPage="11" ItemID="193929248" PTYPE="4" WIDTH="159.718309859155" HEIGHT="235.774647887324" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.718 0 L159.718 235.775 L0 235.775 L0 0 Z" copath="M0 0 L159.718 0 L159.718 235.775 L0 235.775 L0 0 Z" gXpos="108.507042253521" gYpos="1780.22535211268" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="0" FONTSIZE="8"/>
+                <ITEXT CH="Delivery:"/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT CH="Determine player speed again following the same rules as the shipping phase. Starting with the fastest to slowest player, "/>
+                <para LINESPMode="0" LINESP="11"/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT CH="Count your total fuel quality and the amount of cargo you have. If you have more cargo than total fuel quality, randomly destroy cargo equal to the difference."/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT CH="Deliver your cargo by gaining merit equal to the amount of cargo you have."/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT CH="Discard the driver, fuel, and cargo cards on your truck."/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT CH="The fastest player also gains 3 merits."/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT CH="The second fastest player gains 2 merits and scrounges 1 card."/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT CH="The next fastest gains one less merit and scrounges one more card than the previous player. Repeat until all players have delivered"/>
+                <para LINESPMode="0" LINESP="11"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="292.056338028169" YPOS="1779.71830985915" OwnPage="12" ItemID="258323712" PTYPE="4" WIDTH="160.225352112676" HEIGHT="236.281690140845" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.225 0 L160.225 236.282 L0 236.282 L0 0 Z" copath="M0 0 L160.225 0 L160.225 236.282 L0 236.282 L0 0 Z" gXpos="292.056338028169" gYpos="1779.71830985915" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <ITEXT CH="The round is now over! If this is the end of round three, the game is now over! Otherwise, start a new round from the top. Whoever has the most merits at the end has gained the favor of our benevolent visitors. You’ll make an excellent zoo display and living reminder of how far a species can fall!"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Keywords:"/>
+                <para/>
+                <ITEXT CH="Destroy - move the card to the discard pile"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Steal - move the card to your stockyard"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Scrounge x - Put the top x cards of the deck into your stockyard"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
